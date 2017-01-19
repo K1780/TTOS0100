@@ -1,17 +1,5 @@
 # TTOS0100
  Ohjelmistosuunnittelu ja testaus
 
-This is my readme. 
-
-
-## Alaotsikko
-
-|  Koirarotu   |  Kpl |
-|:-------------|------|
-| Suomenpystykorva |30 |
-|Snautseri  |  50|  
-
-### Alaotsikko
-
-[Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)
+[Wikiin][https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-etusivu.md]
 
