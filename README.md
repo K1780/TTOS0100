@@ -6,7 +6,7 @@ This is my readme.
 
 ## Alaotsikko
 
-dsaikjhf
+![](https://fi.wikipedia.org/wiki/Koira#/media/File:Finnish_Spitz_600.jpg)
 
 ### Alaotsikko
 
