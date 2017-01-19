@@ -6,7 +6,10 @@ This is my readme.
 
 ## Alaotsikko
 
-![](https://s-media-cache-ak0.pinimg.com/236x/9c/3f/cf/9c3fcf249124eee74a92bf48d4a2705c.jpg)
+|  Koirarotu   |  Kpl |
+|:-------------|------|
+| Suomenpystykorva |30 |
+|Snautseri  |  50|  
 
 ### Alaotsikko
 
